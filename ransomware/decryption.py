@@ -20,7 +20,7 @@ with open("thekey.key", "rb") as key:
 
 secretphrase = "table"
 
-user_phrase = input(Enter the secret phrase to decrypt your files: )
+user_phrase = input("Enter the secret phrase to decrypt your files: ")
 
 if user_phrase == secretphrase:
     for file in files:
