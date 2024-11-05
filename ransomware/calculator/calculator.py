@@ -45,6 +45,5 @@ elif select == 4:
     print(number_1, "/", number_2, "=",
                     divide(number_1, number_2))
 
-# Error for invalid inputs
 else:
     print("Invalid input")
