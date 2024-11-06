@@ -21,10 +21,8 @@ If you don't know what git is, how it works, or how to install it, [try this](ht
 
 This repository contains a variety of Python examples, including:
 
-* Basic data structures and algorithms
-* File input/output and persistence
-* Networking and web development
-* Data analysis and visualization
+* Rasomware (I am not responsible for your actions)
+* Calculators, one is GUI, the other is CLI only
 
 Each example is well-documented and includes a brief description, code snippets, and example use cases.
 
