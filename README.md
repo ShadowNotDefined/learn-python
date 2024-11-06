@@ -16,6 +16,7 @@ git clone https://github.com/your-username/python-examples.git
 ```
 
 If you don't know what git is, how it works, or how to install it, [try this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 **Examples**
 
 This repository contains a variety of Python examples, including:
