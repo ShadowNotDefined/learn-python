@@ -30,6 +30,12 @@ Each example is well-documented and includes a brief description, code snippets,
 
 We welcome contributions to this repository! If you have a useful Python example you'd like to share, please submit a pull request with your code and a brief description.
 
+### Other Repositories
+
+Here are some other repositories worth checking out:
+
+* [PatrikH0lop/malware_showcase](https://github.com/PatrikH0lop/malware_showcase)
+
 ## Contact
 
 If you need to speak with me, email me at shadownotdefined@gmail.com
