@@ -1,4 +1,4 @@
-**Python Examples Repository**
+# Python Examples Repository
 
 Welcome to our Python Examples Repository! This repository is dedicated to providing a collection of useful Python examples for various tasks and projects.
 
