@@ -28,3 +28,7 @@ Each example is well-documented and includes a brief description, code snippets,
 **Contributing**
 
 We welcome contributions to this repository! If you have a useful Python example you'd like to share, please submit a pull request with your code and a brief description.
+
+### Contact
+
+If you need to speak with me, email me at shadownotdefined@gmail.com
