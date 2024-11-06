@@ -31,5 +31,6 @@ if user_phrase == secretphrase:
             thefile.write(contents_decrypted)
         print("Your files are now decrypted.")
 
+# Error for wrong phrase
 else:
     print("Sorry, wrong phrase.")
