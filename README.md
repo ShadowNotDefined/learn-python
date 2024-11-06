@@ -23,6 +23,7 @@ This repository contains a variety of Python examples, including:
 
 * Rasomware (I am not responsible for your actions)
 * Calculators, one is GUI, the other is CLI only
+* Password generator
 
 Each example is well-documented and includes a brief description, code snippets, and example use cases.
 
