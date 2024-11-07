@@ -23,7 +23,7 @@ This repository contains a variety of Python examples, including:
 
 * [Rasomware (I am not responsible for your actions)](ransomware/Ransomware%20|%20Documentaion.md)
 * Calculators, one is GUI, the other is CLI only
-* Password generator
+* [Password generator](password-generator/password-generator%20|%20Documentation.md)
 
 ### Contributing
 
