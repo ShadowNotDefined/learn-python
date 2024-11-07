@@ -25,8 +25,6 @@ This repository contains a variety of Python examples, including:
 * Calculators, one is GUI, the other is CLI only
 * Password generator
 
-Each example is well-documented and includes a brief description, code snippets, and example use cases.
-
 ### Contributing
 
 We welcome contributions to this repository! If you have a useful Python example you'd like to share, please submit a pull request with your code and a brief description.
