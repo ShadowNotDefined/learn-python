@@ -57,7 +57,7 @@ When you run the script, it will prompt you to enter a number. For instance:
 Number of passwords you want to generate: 3
 ```
 
-If you enter `3`, the output might look like this:
+If you enter `3`, the output will look similar to this this:
 
 ```
 bB3d_T7h7O2GgK0QZT5Gbw
