@@ -3,7 +3,7 @@
 import os
 from cryptography.fernet import Fernet
 
-#let's find some files
+# This is an empty list variable called "files" it is empty because we haven't read any files yet, we will add them later
 
 files = []
 
