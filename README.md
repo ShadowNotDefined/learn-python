@@ -34,6 +34,7 @@ We welcome contributions to this repository! If you have a useful Python example
 Here are some other repositories worth checking out:
 
 * [PatrikH0lop/malware_showcase](https://github.com/PatrikH0lop/malware_showcase)
+* [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
 ## Contact
 
