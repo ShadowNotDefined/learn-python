@@ -12,7 +12,7 @@ Welcome to our Python Examples Repository! This repository is dedicated to provi
 
 To get started with this repository, simply clone it to your local machine using the following command:
 ```
-git clone https://github.com/your-username/python-examples.git
+git clone https://github.com/ShadowNotDefined/learn-python.git
 ```
 
 If you don't know what git is, how it works, or how to install it, [try this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
