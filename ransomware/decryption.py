@@ -18,7 +18,7 @@ print(files)
 with open("thekey.key", "rb") as key:
     secretkey = key.read() 
 
-secretphrase = "table"
+secretphrase = "password"
 
 user_phrase = input("Enter the secret phrase to decrypt your files: ")
 
