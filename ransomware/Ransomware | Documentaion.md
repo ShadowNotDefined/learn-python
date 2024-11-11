@@ -4,6 +4,10 @@ This documentation provides an overview of two Python scripts designed for encry
 
 ---
 
+## IMPORTANT!!!
+
+As of Python 3.6+ the decryption program does NOT work, so use the ransomware at your own risk. It's the equivalent of destroying your files.
+
 ## Requirements
 
 - Python 3
