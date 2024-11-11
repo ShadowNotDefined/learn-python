@@ -22,7 +22,7 @@ If you don't know what git is, how it works, or how to install it, [try this](ht
 This repository contains a variety of Python examples, including:
 
 * [Rasomware (I am not responsible for your actions)](ransomware/Ransomware%20|%20Documentaion.md)
-* Calculators, one is GUI, the other is CLI only
+* [Calculators, one is GUI, the other is CLI only](calculator/Calculator%20|%20Documentation.md)
 * [Password generator](password-generator/password-generator%20|%20Documentation.md)
 
 ### Contributing
